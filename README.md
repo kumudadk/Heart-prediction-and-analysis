@@ -1,4 +1,4 @@
-# Heart-prediction-and-analysis
+# Heart-Attack-Prediction-and-Analysis
 Exploratory data analysis
 <br>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgc1ngfagpXVJ1omb5bFAVPxAsrvb6igRkxg&usqp=CAU"></img>
 <p>
