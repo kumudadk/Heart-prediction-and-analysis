@@ -6,9 +6,6 @@ Exploratory data analysis
   <a href ="https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset">link to the data set.</a>
    Contributers
    <ul>
-   <li>Diya Acharya</li>
-   <li>Kumuda DK</li>
-   <li>Lochana KS</Li>
-   <li>Madhuri Bh</li>
+   <li>Diya Acharya</li><li>Kumuda DK</li><li>Lochana KS</Li><li>Madhuri Bh</li>
     </ul>
 </pre>
